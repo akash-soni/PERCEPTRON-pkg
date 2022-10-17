@@ -29,7 +29,7 @@ setuptools.setup(
     packages=setuptools.find_packages(where="src"),
     python_requires=">=3.6",
     install_requires = [
-        "numpy==1.21.5",
+        "numpy==1.22.0",
         "pandas==1.3.5",
         "joblib==1.1.0"
     ]
